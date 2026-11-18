@@ -2,8 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Team members
 
-- David Vega
-- Ivan Chulde
+- Jose David Vega Varela
+- Luis Ivan Chulde Bonilla
+- Josue Quinones Sigala
+- Peter Msamba
 
 ## Description
 
