@@ -13,7 +13,12 @@ const accessLinks = [
   { href: "/access-records", label: "Access Records" },
 ];
 
-const teamMembers = ["David Vega", "Ivan Chulde"];
+const teamMembers = [
+  "David Vega",
+  "Ivan Chulde",
+  "Jose Quiñones",
+  "Peter Msamba",
+];
 const currentYear = new Date().getFullYear();
 
 export default function Footer() {
